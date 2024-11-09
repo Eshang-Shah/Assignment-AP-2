@@ -56,8 +56,4 @@ To simulate this assignment:
   - When logged in as an instructor, you should be able to use the system from the perspective of an instructor.
   - When logged in as a student, you should be able to perform functions required by a student.
 
-Please thoroughly go through the sample run below to understand the program flow. Please refrain from asking questions related to your approaches from the TAs and hope you are able to help **BYLD** with the following task.
-
-## Program Flow Example:
-(Include sample run or usage example here)
 
